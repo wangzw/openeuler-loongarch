@@ -1,0 +1,5 @@
+[everything-2203]
+name=openEuler 22.03 everything
+baseurl=https://mirrors.tuna.tsinghua.edu.cn/openeuler/openEuler-22.03-LTS/everything/loongarch64/
+enabled=1
+gpgcheck=0
